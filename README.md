@@ -1,18 +1,13 @@
 # Project Title
+TutorMatch
 
-One Paragraph of project description goes here
+## Team Members
+Kieren Willamson
 
-## Getting Started
+Clayton Bittner
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+### Description
+TutorHub allows in need students from a range of grade levels to browse and select tutors to help them learn. Students can sort by topic and view reviews of tutors to find one that fits their needs. Tutors can create a page to offer their services and respond to reviews of students that they tutored. 
 
 ### Installing
 
