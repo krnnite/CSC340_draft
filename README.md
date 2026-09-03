@@ -9,74 +9,9 @@ Clayton Bittner
 ### Description
 TutorHub allows in need students from a range of grade levels to browse and select tutors to help them learn. Students can sort by topic and view reviews of tutors to find one that fits their needs. Tutors can create a page to offer their services and respond to reviews of students that they tutored. 
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## App Functions
+1) Student (The role using services offered)
+    1. Students can create a profile to store information such as name and grade level, aswell as to tie their reviews to their account.
+    2. Students will also be able to view avalible tutors and what they offer. This will be able to be sorted by topic.
+    3. Students will be able to select a tutor to match with, which would allow the student and the tutor to reach out and orginize the plans for the tutoring session.
+    4. After the student has used a service being offered, they will be able to review their tutor. This will be on a 5 star system with a optional additional message to be attached with the review. 
