@@ -15,3 +15,8 @@ TutorHub allows in need students from a range of grade levels to browse and sele
     2. Students will also be able to view avalible tutors and what they offer. This will be able to be sorted by topic.
     3. Students will be able to select a tutor to match with, which would allow the student and the tutor to reach out and orginize the plans for the tutoring session.
     4. After the student has used a service being offered, they will be able to review their tutor. This will be on a 5 star system with a optional additional message to be attached with the review. 
+2) Provider
+    1. View Clients - Providers can view the clients they have chosen to tutor and the times/days they are scheduled
+    2. Data Management - Providers can manage provier-client data (shared files, audio, video recordings) on a client-by-client selection interface
+    3. Client Notes - Providers can create notes about their clients on an individual basis
+    4. Profile Creation - Providers can set their virtual/in-person availability via profile creation
